@@ -57,7 +57,7 @@ output will be
 [[0,0,1],
 [1,2,0],
 [4,2,7]]
-###Question 3
+### Question 3
 3.1 Testing a set of edges (12 marks)
 Write a program whose input is a graph G in a form of adjacency matrix (the
 vertices of this graph are 0, . . . , n − 1 ) and a list L and where each element of
