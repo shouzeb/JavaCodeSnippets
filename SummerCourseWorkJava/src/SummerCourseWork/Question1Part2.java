@@ -50,6 +50,7 @@ the third one.*/
                      {3,1,2}};
         
         int n = ar.length; 
+        
         System.out.println( findSingle(ar, n) ); 
     } 
 } 
