@@ -20,6 +20,7 @@ the third one.*/
         
         int res;
         int res1;
+        
         boolean checkrow;
         boolean checkcol; 
         for (int i = 0; i < ar.length; i++) {
