@@ -35,6 +35,7 @@ the third one.*/
          for (int j = 1; j < ar[i].length; j++){
              
             checkrow = ar[0][i] == ar[j][i]; 
+          
             if(checkrow)
              return "NO";
      }
