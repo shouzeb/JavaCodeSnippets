@@ -33,6 +33,7 @@ the third one.*/
          for (int i = 0; i < ar.length; i++) {
             
          for (int j = 1; j < ar[i].length; j++){
+        	 
              
             checkrow = ar[0][i] == ar[j][i]; 
           
