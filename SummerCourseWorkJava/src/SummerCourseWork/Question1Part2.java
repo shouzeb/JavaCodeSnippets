@@ -36,6 +36,7 @@ the third one.*/
         	 
              
             checkrow = ar[0][i] == ar[j][i]; 
+            
           
             if(checkrow)
              return "NO";
