@@ -3,6 +3,7 @@ package SummerCourseWork;
 public class Question1Part2 
 { 
     /*
+     * part 1 
  Given an n × n matrix B write a program that checks whether each row and
 each column of B contains all the numbers 1, . . . , n and only one time each. For
 example, the program must print ’YES’ for the following matrix
