@@ -9,7 +9,7 @@ Summer coursework, submission deadline
 
 Please solve 4 questions out of 5. If you solve all the 5 questions, the mark
 will be given as the sum of 4 best marks.
-1 Question 1
+### Question 1
 1.1 All numbers in a list (12 marks)
 Let A be a list of length n. Write a function that returns true if A contains all
 the numbers 1, . . . , n and each number occurs exactly once.
@@ -34,7 +34,7 @@ the third one.
 
 1
 
-2 Question 2
+### Question 2
 2.1 Swapping rows of a matrix (10 marks)
 Write a function whose input is an n × n matrix A and two row numbers i and
 j of A. The program should return the matrix obtained as a result of swapping
@@ -57,7 +57,7 @@ output will be
 [[0,0,1],
 [1,2,0],
 [4,2,7]]
-3 Question 3
+### Question 3
 3.1 Testing a set of edges (12 marks)
 Write a program whose input is a graph G in a form of adjacency matrix (the
 vertices of this graph are 0, . . . , n − 1 ) and a list L and where each element of
@@ -71,7 +71,7 @@ induced by L.
 
 2
 
-4 Question 4: Recognizing a star (25 points)
+### Question 4: Recognizing a star (25 points)
 A graph G is a star if it has a vertex x adjacent to every other vertex and x is
 the only neighbour of every other vertex.
 Given the adjacency matrix of a graph G, design an O(n
@@ -79,7 +79,7 @@ Given the adjacency matrix of a graph G, design an O(n
 ) algorithms that
 
 prints YES if G is a star and NO otherwise.
-5 Question 5
+### Question 5
 Assume the existence of a function Connect whose input is a graph G in the
 form of adjacency matrix. The procedure return true if G is connected and
 f alse otherwise.
